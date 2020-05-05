@@ -1,0 +1,33 @@
+void main()
+{
+      int a,c,aa,x;
+      int b;
+      a=10;
+      b=20;
+      a=c;
+      while(a<b)
+     {
+           if(a>c)
+           {
+                if(a<aa)
+                {
+                     x=aa-b;
+                 }
+                else
+                {
+                     x=aa+b;
+                 }
+            }
+            else
+            {
+                  if(a<c)
+                  {
+                       a=a+b;
+                   }
+                   else
+                  {
+                    b=b+c;
+                   }
+             }
+        }
+}
